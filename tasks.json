@@ -3,7 +3,7 @@
     "tasks": [{
         "label": "build",
         "type": "shell",
-        "command": "gcc -g main.c file_util.c",
+        "command": "gcc -g main.c",
         "group": {
             "kind": "build",
             "isDefault": true
