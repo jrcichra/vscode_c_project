@@ -36,6 +36,9 @@ Add gcc to your system environment variable path. You can specify the exact path
 ![](https://i.imgur.com/MaILoCc.png)
 
 
+RESTART VSCODE!!! Otherwise, it won't recognize the updated PATH variable
+
+
 This "should" be everything you need to get it working. I'll be making the process simpler as we go but this is revision 1. Open up an issue if I missed anything.
 
 
